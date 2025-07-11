@@ -4,7 +4,7 @@ Edit clipboard text with Alfred and paste it instantly into the frontmost app.
 
 ## Download
 
-- You can also download it directly from GitHub [here](https://github.com/vanstrouble/clipboard-edit-alfred-workflow.git/releases/latest).
+- You can also download it directly from GitHub [here](https://github.com/vanstrouble/clipboard-edit-alfred-workflow/releases/tag/v1.0.0).
 
 ## Usage
 
